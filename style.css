@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -29,4 +30,13 @@ section{
 .top-banner{
     background-image: url(image/t-b.jpg);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(image/t-b2.jpg);
+    background-repeat: no-repeat;
+}
+#text-clr{
+    color: rgb(255, 255, 254);
+    font-size: 200%;
+    font-style: inherit;
 }
